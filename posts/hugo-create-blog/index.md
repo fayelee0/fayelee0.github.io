@@ -87,8 +87,7 @@ jobs:
 ```
 
 验证 Actions 是否正确执行：*在 Github 仓库 A 中找到 Actions 执行记录，如果是绿色表示执行成功*
-![Actions Success](/images/use-hugo-create-blog-00.png)
+![Actions Success](/images/hugo-create-blog-00.png)
 
 配置成功之后访问 Github Pages 地址 `<user>.github.io` 查看效果。
 
-## 
