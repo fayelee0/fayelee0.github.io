@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://pursuesuetao.com/blog/sitemap.xml
